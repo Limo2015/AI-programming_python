@@ -10,10 +10,10 @@ import json # creation and manipulation of json files
 #The files will be saved as json files i.e. Home timeline, Twitter Frieends and user Timeline
 #The same files will be displayed.
 
-consumer_key = "sM79Ipf9zZ6E4qAzbOoFSqwpB"
-consumer_secret = "rH4tvdYSdnXdJZBWdlTJBgG0rrzYiIcFB3hZ5qai5oOhYqi2L2"
-access_token = "2317127468-svuUIU6ijtlgEC8UMofePnacUK0kAQVQesKYXZj"
-access_token_secret = "QOJZLhvG9oF2PUHCoxuBKgkpdOVGG0F4SKnaXuLSYOUgb"
+consumer_key = "ADD CUSTOMER KEY CODE"
+consumer_secret = "ADD CUSTOMER SECRET CODE"
+access_token = "ADD ACCESS TOKEN CODE"
+access_token_secret = "ADD ACCESS TOKEN SECRET"
 
 #Replace the above Customer key, Customer Secret, Access Token and Access Token Secrets with your own.
 
